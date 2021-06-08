@@ -18,41 +18,19 @@ Table 1. Saffir-Simpson Wind Hurricane Categories
 | 4 | 130-156 | Cause catastrophic damage. Structures likely to lose roof structure and walls, residential areas likely to be isolated by power poles and tree uprooting, area likely uninhabitable for weeks to months.|
 | 5 | 157 or higher | Cause catastrophic damage. High percent of framed homes will be destroyed, power outages likely for months, area likely uninhabitable for week to months.|
 
-## Background
-
-Within the study time period (2000-2015), a total of eleven (11) hurricanes hit the coast of Louisiana, claiming lives and causing irreparable damage both economically and hydrologically. A brief overview of each of these hurricanes and the impacts they had can be seen below.
-
-Table 2. Hurricane Impact Summary (NOAA)
-
-| Hurricane | Category at US Landfall | Peak Category | Peak Winds | Duration | Fatalities | Damage (MUSD) |
-| --------- | ----------------------- | -------- | ---------------- | -------- | ---------- | ------ |
-| Isidore | Tropical Storm | 3 | 125 mph | September 14, 2002 - September 27, 2002 | 22 | $330-$1,300 |
-| Lili | 1 | 4 | 145 mph (230 km/h) | September 21, 2002 - October 4, 2002 | 13 direct, 2 indirect | $925 |
-| Cindy | 1 | 1 |  75 mph | July 3, 2005- July 12, 2005 | 5 | $320 |
-| Dennis | 3 | 4 |  150 mph (240 km/h) | 4 July 2005 to 18 July 2005 | 76 direct, 12 indirect | $2,545-$3,710 |
-| Katrina | 3 | 5 |  173 mph | August 23 - August 31 | 1833 | $108,000 |
-| Rita | 3 | 5 |  180 mph | September 18, 2005- September 26, 2005 | 120 | $12,037 |
-| Humberto | 1 | 1 |  92 mph | September 12 - 14 (52 hours) | 1 | $50-$100 |
-| Gustav | 2 | 4 |  155 mph | August 25, 2008- September 7, 2008 | 153 | $4,620-$6,610 |
-| Ike | 2 | 4 |  145 mph | September 1, 2008 - September 15, 2008 | 195 | $29,520-$37,500 |
-| Ida | Tropical Storm | 2 |  105 mph | November 4, 2009 - November 10, 2009 | 4 | $9-$11.3 |
-| Isaac | 1 | 1 |  81 mph | August 21 - September 1 | 34 | $2,350 |
-
-![Figure 1. Hurricane Map](images/map.png)
-
 ## Impacts of Hurricanes
 
 Hurricanes that occur on the tropical coastal regions of the United States have proven to consistently be some of the most devastating natural disasters experienced in the country. The prevalence of hurricane related disasters in coastal Louisiana has the potential to not only severely impact the communities living in this region, but also to drastically alter both the hydrology and topography of the surrounding landscapes. Coastal Louisiana is especially prone to large hurricanes due to its geographic location in the north-central Gulf of Mexico.
 
 ### Hydrological Impact
 
+Strong storm events can produce severe changes to the hydrology of the area.
+
 #### Coastal Flooding
 
-During a storm event, coastal flooding is by far the greatest threat to life and property along the coastline. Storm surges as well as precipitation and river flow during hurricanes contribute to this flooding. A storm surge is a rising of the sea as a result of atmospheric pressure changes and wind associated with a storm. Coastal flooding and surges depend on the intensity of a storm, its size, speed, angle of approach, and landfall location. Slow and larger but weaker hurricanes such as Katrina can cause higher storm surge and flooding. Greater storm surges occur when storms make a perpendicular approach toward the coastline as opposed to those that travel parallel to the coastline. Storm surges of Category 5 hurricanes can reach more than 12m and span several hundred miles while coastal flooding can reach tens of miles inland. Buildings, levees, wetlands, sand dunes, and barrier islands can reduce storm surges and flooding, but at the same time they may be damaged or destroyed during severe storms. During Hurricane Lili, a combination of storm surge up to 12 feet and rainfall over 6 inches caused levees to fail in the southeastern part of the state. Hurricane Katrina brought 8-10 inches of rain and caused major levee breaches that led to catastrophic flooding, inundating many homes and businesses. Levees are designed to withstand impacts of storms, but poorly designed levees may fail when confronted with strong hurricanes such as Lili, which was a Category 4 hurricane, and Katrina, a Category 5. Storm surge values are no longer assigned to a hurricane of a given intensity due to variations in water depth and topography in different coastal regions. Nonetheless, they present high risks along the Atlantic and Gulf Coast where many densely populated regions lie below sea level.
+During a storm event, coastal flooding is by far the greatest threat to life and property along the coastline. Storm surges as well as precipitation and river flow during hurricanes contribute to this flooding. A storm surge is a rising of the sea as a result of atmospheric pressure changes and wind associated with a storm. Coastal flooding and surges depend on the intensity of a storm, its size, speed, angle of approach, and landfall location. Slow and larger but weaker hurricanes such can cause higher storm surge and flooding. Greater storm surges occur when storms make a perpendicular approach toward the coastline as opposed to those that travel parallel to the coastline. Storm surges of Category 5 hurricanes can reach more than 12 meters and span several hundred miles while coastal flooding can reach tens of miles inland. Buildings, levees, wetlands, sand dunes, and barrier islands can reduce storm surges and flooding, but at the same time they may be damaged or destroyed during severe storms. Levees are designed to withstand impacts of storms, but poorly designed levees may fail when confronted with strong hurricanes. Storm surge values are no longer assigned to a hurricane of a given intensity due to variations in water depth and topography in different coastal regions. Nonetheless, they present high risks along the Atlantic and Gulf Coast where many densely populated regions lie below sea level.
 
-Hurricanes have played an important role in transforming Louisiana’s barrier islands and have caused up to 90% of shoreline retreat. Hurricanes are the dominant factors in causing erosion, reduction in elevation, fragmentation, and migration on Louisiana’s beaches and islands. During Hurricane Cindy, storm surge flooding and overwash caused some beach erosion at Grand Isle, Louisiana. There was severe beach erosion at Holly Beach due to Hurricane Rita. An example of one of the most devastating storms to strike the coast of Louisiana is Hurricane Andrew in 1992. The peak's significant wave height exceeded 9 m and severe overwash and breaching occurred along over 100 km of the barrier island coastline. Beach face retreat of approximately 25 m was evident for two years following Hurricane Andrew which also removed all the sand from the beach face of Trinity Island and caused widespread sediment deposition (Stone et al., 1997). Due to the damage of barrier islands and coastal retreat, larger waves are predicted to undergo a gradual landward shift. Predictions of future waves and storm surges indicate wave heights between 1 and 2 m can be anticipated as far inland as New Orleans.
-
-The impact of Hurricane Katrina was mentioned briefly above. As one of the deadliest hurricanes on record in the US, Katrina caused an extensive amount of hydrological damage to the coastal states. Most of the deaths in Louisiana were caused by the storm surge-induced flooding discussed earlier. Katrina brought storm tides over 14 feet and a 12-foot storm surge was recorded in Grand Isle. The high rainfall and storm surge caused the level of Lake Pontchartrain to rise and caused extensive flooding. Katrina obliterated entire coastal communities and cut a new canal through the Dauphin Island’s western end. Strong storm events can produce severe changes to the hydrology of the area. Another extreme example occurred when strong winds and storm surges during Hurricane Isaac forced the Mississippi River to flow backwards for 24 hours.
+Hurricanes have played an important role in transforming Louisiana’s barrier islands and have caused up to 90% of shoreline retreat. Hurricanes are the dominant factors in causing erosion, reduction in elevation, fragmentation, and migration on Louisiana’s beaches and islands. An example of one of the most devastating storms to strike the coast of Louisiana is Hurricane Andrew in 1992. The peak's significant wave height exceeded 9 meters and severe overwash and breaching occurred along over 100 kilometers of the barrier island coastline. Beach face retreat of approximately 25 meters was evident for two years following Hurricane Andrew which also removed all the sand from the beach face of Trinity Island and caused widespread sediment deposition (Stone et al., 1997). Due to the damage of barrier islands and coastal retreat, larger waves are predicted to undergo a gradual landward shift. Predictions of future waves and storm surges indicate wave heights between 1 and 2 meters can be anticipated as far inland as New Orleans.
 
 #### Marine Ecosystems
 
@@ -60,7 +38,7 @@ Other impacts caused by hurricanes include damage to marine ecosystems. Areas vu
 
 Hurricane events can have a drastic effect on the hydrology of the affected areas, which can lead to catastrophic results for the people who live there. Water level rise and storm surges can flood low lying areas, causing millions of dollars of damage. Destruction of marine ecosystems harm the fish life in the area. Wetlands are being considered as a potential component of flood protection by lowering surges as they propagate inland from the coast (Wansley et al., 2009). Also methods to quantify the effect of wetlands on coastal surge levels are not fully comprehensive and the degree to which wetlands attenuate surge is highly debatable, some studies have shown that wetlands do have the potential to reduce surges. As coastal areas are highly likely to be eroded or damaged due to storm waves, it is increasingly important to find solutions to reduce the impacts of high storm events on the population. Coastal protection systems should consider both engineered systems, such as strong levees designed to withstand the impacts of strong hurricanes and high flood events, and natural features, such as wetlands.
 
-Wetlands and other marine ecosystems, as mentioned before, have the potential to be damaged during high storm events. Without wetland restoration, Louisiana could lose about 4,548 km2 of wetland and other coastal land over the next 50 years (Barbier et al., 2013). But wetland restoration is expensive and estimates show an investment of $25 billion over 50 years could still result in 585 km2 of loss. Yet, wetland investments could potentially reduce the future vulnerability of the coast to periodic hurricane storm surges. It is this important to assess the potential benefit of restoring these habitats to attenuate future storms versus the cost of rehabilitation.
+Wetlands and other marine ecosystems, as mentioned before, have the potential to be damaged during high storm events. Without wetland restoration, Louisiana could lose about 4,548 square kilometers of wetland and other coastal land over the next 50 years (Barbier et al., 2013). But wetland restoration is expensive and estimates show an investment of $25 billion over 50 years could still result in 585 square kilometers of loss. Yet, wetland investments could potentially reduce the future vulnerability of the coast to periodic hurricane storm surges. It is this important to assess the potential benefit of restoring these habitats to attenuate future storms versus the cost of rehabilitation.
 
 ### Economic Impact
 
@@ -68,37 +46,67 @@ Hurricane economic impacts can be categorized into direct and indirect impacts. 
 
 To assess the damage caused by a hurricane event, a dollar estimate is produced encompassing the cost due to economic losses and recovery effort. Losses from a hurricane event range from loss of human life, gross state product (GSP); damage to homes, businesses, and infrastructure. In the United States, the cost of a hurricane is reported by the National Hurricane Center as a single rough figure called the “US damage estimate.” It compiles insurance claims from the American Insurance Services Group (AISG) and the National Flood Insurance Program (NFIP), and then projects the uninsured damages as equal to the AISG estimate (i.e. US damage estimate = AISG✕2 + NFIP) (NOAA, 2007).
 
-At nearly three times the damage estimate of the second costliest hurricane in US history, Hurricane Katrina is in a class of its own. Unlike other hurricanes, Katrina had lasting effects on the Gulf Coast region and especially Louisiana. In 2006, the Senate Budget Committee appropriated $123 billion dollars for spending on recovery efforts along the Gulf Coast following Katrina and Rita (ESA, 2006). In the months following Katrina and Rita, Louisiana was the only state experiencing a declining GSP, while the national average was 3.5% (ESA, 2006). Though the decline in GSP due to the hurricanes could not be confirmed, it is likely, since the GSP took a dive from 6 previous quarters of a steady $120 billion to $63.5 billion (ESA, 2006).
+Much of the industry within the Gulf Coast region are vulnerable to the direct impacts of hurricane events, which has indirect impacts on the surrounding regions. Industries such as fuel export, commercial fishing, and shipping all require coastal facilities to operate. Hurricanes with sufficient damage potential can disable or induce forced-shutdowns of these coastal facilities for the duration for the storm and recovery effort. Hurricanes can have substantial and long-lasting effects on the Louisiana fishing and shipping industry. The Gulf Coast region provides 29% of U.S. offshore oil production, and a multi billion-dollar fishing industry. 
 
-Much of the industry within the Gulf Coast region are vulnerable to the direct impacts of hurricane events, which has indirect impacts on the surrounding regions. Industries such as fuel export, commercial fishing, and shipping all require coastal facilities to operate. Hurricanes with sufficient damage potential can disable or induce forced-shutdowns of these coastal facilities for the duration for the storm and recovery effort. The Gulf Coast provides 29% of U.S. offshore oil production and in the weeks following Hurricane Katrina, 80% of Gulf Coast crude oil production remained shut down for repairs (ESA, 2006). Shortages in fuel production generated speculation among consumers that shortages in fuel would follow the storm. As a result, the price of gasoline rose by 15% in the Gulf Coast, spurring an investigation by the Federal Trade Commission for perpetrators of price-gouging, in which 15 examples were identified (FTC, 2006).
+Since hurricanes can act as a strong drive for changes in housing and population dynamics, they can affect the core of state economies. For cities, losing residence means losing a portion of its tax base. This will likely affect future spending in disaster-affected areas. 
 
-Hurricanes can have substantial and long-lasting effects on the Louisiana fishing and shipping industry. In the Gulf Coast region, fishing is a multi billion-dollar industry and Louisiana alone is estimated to have lost $1.6 billion over 12 months (NYT, 2005). To provide an idea of the extent of the damage to Louisiana fishing, 70% of commercial fishing facilities in Eastern Louisiana remained closed for at least 6 months following Katrina and Rita (ESA, 2006). Commercial fishing revenue declined 32% 2-3 months following Katrina from the same period in the previous year (Impact Assessment, Inc., 2007). The economic devastation of the loss of thousands of fishing vessels, damage to fishing processing and storage facilities was compounded by a 40% job loss in Louisiana in areas affected by Katrina (Impact Assessment, Inc., 2007). In regards to the shipping industry, Louisiana saw a loss of 3,500 jobs amounting to $136 million in lost wages (BLS, 2007).
+## Hurricane Events
 
-Since hurricanes can act as a strong drive for changes in housing and population dynamics, they can affect the core of state economies. As a result of Hurricane Katrina, 1.2 million people evacuated from the Gulf Coast region to escape the effects of the natural disaster, but only 58% returned the following year (ESA, 2006). Of the 58%, Louisiana saw a population loss of 380,000 (ESA, 2006). Adding to the difficulty of returning to a post-Katrina Louisiana, was a reduction of 143,000 housing units in the disaster affected regions (ESA, 2006). For cities, losing residence means losing a portion of its tax base. This will likely affect future spending in disaster-affected areas.
+Within the study time period (2000-2015), a total of eleven (11) hurricanes hit the coast of Louisiana, claiming lives and causing irreparable damage both economically and hydrologically. A brief overview of each of these hurricanes and the impacts they had can be seen below.
+
+Table 2. Hurricane Impact Summary (NOAA)
+
+| Hurricane | Category at US Landfall | Peak Category | Peak Winds | Year | Duration | Fatalities | Damage (MUSD) |
+| --------- | ----------------------- | ------------- | ---------- | ---- | -------- | ---------- | ------------- |
+| Isidore | Tropical Storm | 3 | 125 mph | 2002 | September 14 - September 27 | 22 | $330-$1,300 |
+| Lili | 1 | 4 | 145 mph (230 km/h) | 2002 | September 21 - October 4 | 13 direct, 2 indirect | $925 |
+| Cindy | 1 | 1 |  75 mph | 2005 | July 3- July 12 | 5 | $320 |
+| Dennis | 3 | 4 |  150 mph (240 km/h) | 2005 | July 4 - July 18 | 76 direct, 12 indirect | $2,545-$3,710 |
+| Katrina | 3 | 5 |  173 mph | 2005 | August 23 - August 31 | 1833 | $108,000 |
+| Rita | 3 | 5 |  180 mph | 2005 | September 18 - September 26 | 120 | $12,037 |
+| Humberto | 1 | 1 |  92 mph | 2007 | September 12 - September 14| 1 | $50-$100 |
+| Gustav | 2 | 4 |  155 mph | 2008 | August 25 - September 7 | 153 | $4,620-$6,610 |
+| Ike | 2 | 4 |  145 mph | 2008 | September 1 - September 15 | 195 | $29,520-$37,500 |
+| Ida | Tropical Storm | 2 |  105 mph | 2009 | November 4 - November 10 | 4 | $9-$11.3 |
+| Isaac | 1 | 1 |  81 mph | 2012 | August 21 - September 1 | 34 | $2,350 |
+
+![Figure 1. Hurricane Map](images/map.png)
 
 ### Hurricane Isidore
 
-Hurricane Isidore was associated with extensive precipitation in Louisiana, with the most rainfall being experienced in Metairie, LA where approximately 16 inches of rainfall occurred. Isidore caused extensive flooding in the Louisiana region, however by the time it reached the United States it was classified as a tropical storm. The only fatality in Louisiana was caused by a rip current near Port Fourchon.
+Hurricane Isidore was associated with extensive precipitation in Louisiana, with the most rainfall being experienced in Metairie, where approximately 16 inches of rainfall occurred. Isidore caused extensive flooding in the Louisiana region, however by the time it reached the United States it was classified as a tropical storm. The sole fatality in Louisiana was caused by a rip current near Port Fourchon.
 
 ### Hurricane Lili
 
-Hurricane Lili made landfall on the morning of October 3 near Intracoastal City, as a weakening category one hurricane. Wind gusts reaching 120 mph (190 km/h), coupled with over 6 inches (150 mm) of rainfall and a storm surge of 12 feet (3.7 m) caused over $790 million in damage to Louisiana. Hurricane Lili also caused great environmental damage to the marshes and barrier islands in Louisiana. President Bush declared Louisiana a federal disaster area after the storm, making it eligible for assistance. Over $311 million in aid was granted to Louisiana. (Miles Lawrence (2002). "National Hurricane Center Tropical Cyclone Report"(PDF). National Hurricane Center. Retrieved 2015-05-26.)
+Hurricane Lili made landfall on the morning of October 3 near Intracoastal City, as a weakening category one hurricane. Wind gusts reaching 120 mph (190 km/h), coupled with over 6 inches (150 mm) of rainfall and a storm surge of 12 feet (3.7 m) caused over $790 million in damage to Louisiana including failed levees in the southeastern part of the state. Hurricane Lili also caused great environmental damage to the marshes and barrier islands in Louisiana. President Bush declared Louisiana a federal disaster area after the storm, making it eligible for assistance. Over $311 million in aid was granted to Louisiana (Lawrence, 2002).
 
 ### Hurricane Cindy
 
-Hurricane Cindy was a tropical storm that only reached Category 1 status upon landfall in the state of Louisiana. New Orleans was the most impacted city in the state, however none of the deaths caused by Cindy occurred in Louisiana. Storm surges caused extensive flooding in New Orleans, and approximately 260,000 residents were left without power.
+Hurricane Cindy was a tropical storm that reached Category 1 status upon landfall in the state of Louisiana. New Orleans was the most impacted city in the state, however none of the deaths caused by Cindy occurred in Louisiana. Storm surges caused extensive flooding in New Orleans, and approximately 260,000 residents were left without power. Storm surge flooding and overwash also caused some beach erosion at Grand Isle, Louisiana.
 
 ### Hurricane Dennis
 
-Hurricane Dennis first made landfall in the United States on the Florida Panhandle as a Category 3 storm. The storm caused far less damage than anticipated in Louisiana, though the governor still declared a state of emergency. Tides of 2-4 ft above normal were reported along the southeastern coast of Louisiana. The storm also damaged a British Petroleum oil rig that sits 150 miles (240 km) southeast of New Orleans. (Jack L. Beven (September 9, 2014). Hurricane Dennis (PDF) (Report). Tropical Cyclone Report. Miami, Florida: National Hurricane Center. Retrieved November 22, 2015.)
+Hurricane Dennis first made landfall in the United States on the Florida Panhandle as a Category 3 storm. The storm caused far less damage than anticipated in Louisiana, though the governor still declared a state of emergency. Tides of 2-4 ft above normal were reported along the southeastern coast of Louisiana. The storm also damaged a British Petroleum oil rig that sits 150 miles (240 km) southeast of New Orleans (Beven, 2014).
 
 ### Hurricane Katrina
 
 Hurricane Katrina is between the 4th or 5th deadliest hurricane in recorded US history. It reached its maximum lifetime intensity of Category 5 over the Gulf of Mexico and was downgraded to Category 3 at landfall on the Louisiana shores. Damage resulting from the storm surge, flooding, and strong winds was significant. Around 3 million people were left without power.
 
+Hurricane Katrina brought 8-10 inches of rain and caused major levee breaches that led to catastrophic flooding, inundating many homes and businesses. As one of the deadliest hurricanes on record in the US, Katrina caused an extensive amount of hydrological damage to the coastal states. Most of the deaths in Louisiana were caused by the storm surge-induced flooding discussed earlier. Katrina brought storm tides over 14 feet and a 12-foot storm surge was recorded in Grand Isle. The high rainfall and storm surge caused the level of Lake Pontchartrain to rise and caused extensive flooding. Katrina obliterated entire coastal communities and cut a new canal through the Dauphin Island’s western end.
+
+At nearly three times the damage estimate of the second costliest hurricane in US history, Hurricane Katrina is in a class of its own. Unlike other hurricanes, Katrina had lasting effects on the Gulf Coast region and especially Louisiana. In the weeks following Hurricane Katrina, 80% of Gulf Coast crude oil production remained shut down for repairs (ESA, 2006). Shortages in fuel production generated speculation among consumers that shortages in fuel would follow the storm. As a result, the price of gasoline rose by 15% in the Gulf Coast, spurring an investigation by the Federal Trade Commission for perpetrators of price-gouging, in which 15 examples were identified (FTC, 2006).
+
+The economic devastation of the loss of thousands of fishing vessels, damage to fishing processing and storage facilities was compounded by a 40% job loss in Louisiana in areas affected by Katrina (Impact Assessment, Inc., 2007). In regards to the shipping industry, Louisiana saw a loss of 3,500 jobs amounting to $136 million in lost wages (BLS, 2007).
+
+As a result of Hurricane Katrina, 1.2 million people evacuated from the Gulf Coast region to escape the effects of the natural disaster, but only 58% returned the following year (ESA, 2006). Of the 58%, Louisiana saw a population loss of 380,000 (ESA, 2006). Adding to the difficulty of returning to a post-Katrina Louisiana, was a reduction of 143,000 housing units in the disaster affected regions (ESA, 2006).
+
 ### Hurricane Rita
 
-Hurricane Rita is one of the most intense Atlantic hurricanes ever recorded. It reached Category 5 status just 3 days after it formed, but quickly weakened to Category 3 status as it approached Louisiana. As Rita hit soon after Katrina, already damaged infrastructure was worsened by this hurricane. Low-lying communities were inundated due to the overtopping of levees. Hurricane Rita caused $8 billion in damages in Louisiana alone.
+Hurricane Rita is one of the most intense Atlantic hurricanes ever recorded. It reached Category 5 status just 3 days after it formed, but quickly weakened to Category 3 status as it approached Louisiana. There was severe beach erosion at Holly Beach due to Hurricane Rita.
+
+As Rita hit soon after Katrina, already damaged infrastructure was worsened by this hurricane. Low-lying communities were inundated due to the overtopping of levees. Hurricane Rita caused $8 billion in damages in Louisiana alone. In 2006, the Senate Budget Committee appropriated $123 billion dollars for spending on recovery efforts along the Gulf Coast following Katrina and Rita (ESA, 2006). In the months following Katrina and Rita, Louisiana was the only state experiencing a declining GSP, while the national average was 3.5% (ESA, 2006). Though the decline in GSP due to the hurricanes could not be confirmed, it is likely, since the GSP took a dive from 6 previous quarters of a steady $120 billion to $63.5 billion (ESA, 2006).
+
+Louisiana is estimated to have lost $1.6 billion in the fishing industry over the 12 months following hurricanes Katrina and Rita (NYT, 2005). To provide an idea of the extent of the damage to Louisiana fishing, 70% of commercial fishing facilities in Eastern Louisiana remained closed for at least 6 months following Katrina and Rita (ESA, 2006). Commercial fishing revenue declined 32% 2-3 months following Katrina from the same period in the previous year (Impact Assessment, Inc., 2007).
 
 ### Hurricane Humberto
 
@@ -118,7 +126,7 @@ Ida was the strongest landfalling tropical cyclone during the 2009 Atlantic hurr
 
 ### Hurricane Isaac
 
-Hurricane Isaac made landfalls in Haiti and Cuba as a tropical storm and hit the U.S. via Louisiana as a category 1 hurricane. In Louisiana, Isaac caused storm surges that peaked at 11.03 feet above normal tide levels resulting in significant inland flooding. In addition, heavy rainfall that peaked at 20.66 inches in Louisiana caused moderate to record flooding in several rivers (NOAA).
+Hurricane Isaac made landfalls in Haiti and Cuba as a tropical storm and hit the U.S. via Louisiana as a category 1 hurricane. In Louisiana, Isaac caused storm surges that peaked at 11.03 feet above normal tide levels resulting in significant inland flooding. In addition, heavy rainfall that peaked at 20.66 inches in Louisiana caused moderate to record flooding in several rivers (NOAA). Strong winds and storm surges during Hurricane Isaac forced the Mississippi River to flow backwards for 24 hours.
 
 ## Evaluation of Hurricane Forecasting
 
@@ -142,7 +150,7 @@ Ensemble forecasts are the most widespread type of forecasts typically used in t
 
 ### Track and Intensity
 
-One of the most prevalent issues with hurricane forecasting is determining a model which can accurately portray the path of a hurricane while simultaneously predicting the intensity. The majority of hurricanes will cover large expanses of space, often encompassing a horizontal area over 100 km and a vertical height of over 20km. This wide range of space requires that models that forecast hurricanes require an immense amount of computational data. Typically, the forecasting of hurricanes will utilize statistical and physical models in order to interpret the likelihood of an event occurring in a specific place. Many of these models will put different portions of the storm into a three-dimensional grid in order to determine what path a hurricane is likely to take and where it is bound to have impacts on coastal communities. Some of these forecasts can have path errors on the range of 100 km. This inability to predict where a hurricane will land can have devastating consequences for a community ill-prepared to withstand the impacts caused by these events.
+One of the most prevalent issues with hurricane forecasting is determining a model which can accurately portray the path of a hurricane while simultaneously predicting the intensity. The majority of hurricanes will cover large expanses of space, often encompassing a horizontal area over 100 kilometers and a vertical height of over 20 kilometers. This wide range of space requires that models that forecast hurricanes require an immense amount of computational data. Typically, the forecasting of hurricanes will utilize statistical and physical models in order to interpret the likelihood of an event occurring in a specific place. Many of these models will put different portions of the storm into a three-dimensional grid in order to determine what path a hurricane is likely to take and where it is bound to have impacts on coastal communities. Some of these forecasts can have path errors on the range of 100 kilometers. This inability to predict where a hurricane will land can have devastating consequences for a community ill-prepared to withstand the impacts caused by these events.
 
 #### Forecast-oriented Low Ocean Resolution
 
@@ -160,7 +168,7 @@ The forecasts completed by Murakami et al. provided various results. As seen in 
 
 ##### Methodology
 
-Another model used frequently in North American hurricane forecasting is the Hurricane Weather and Research Forecast (HWRF). HWRF was first utilized by the NHC in 2007 as a means to improve hurricane forecasts in real-time. Like the FLOR model, HWRF creates a nested grid in order to begin model simulation. The HWRF model has a 9-km horizontal resolution with 42 vertical levels. Unlike the FLOR model, on the other hand, the HWRF model seeks to incorporate real-time satellite imagery in order to continuously update both initial and boundary conditions. HWRF has the potential to increase accuracy by continuously updating the initialization process within the model. Since its inception in 2007, HWRF models have been updated yearly in order to increase the accuracy of boundary conditions along with providing numerical improvements to microphysics and computational power. The HWRF model has been seeking to reduce track and intensity errors by 50% by 2020 per the HFIP goals (Tallapragada et al., 2015).
+Another model used frequently in North American hurricane forecasting is the Hurricane Weather and Research Forecast (HWRF). HWRF was first utilized by the NHC in 2007 as a means to improve hurricane forecasts in real-time. Like the FLOR model, HWRF creates a nested grid in order to begin model simulation. The HWRF model has a 9-kilometers horizontal resolution with 42 vertical levels. Unlike the FLOR model, on the other hand, the HWRF model seeks to incorporate real-time satellite imagery in order to continuously update both initial and boundary conditions. HWRF has the potential to increase accuracy by continuously updating the initialization process within the model. Since its inception in 2007, HWRF models have been updated yearly in order to increase the accuracy of boundary conditions along with providing numerical improvements to microphysics and computational power. The HWRF model has been seeking to reduce track and intensity errors by 50% by 2020 per the HFIP goals (Tallapragada et al., 2015).
 
 ##### Results
 
@@ -198,17 +206,17 @@ The fvGCM was used to forecast several hurricanes including Gustav (2002) and Is
 
 One of the most difficult parts of hurricane forecasting is determining which model is best to use. Standard practice has been to select one “best” model, and has ignored the uncertainty of this model selection procedure. For this reason, an alternative has been developed, called Bayesian Model Averaging (BMA). The BMA procedure assumes that all models created are capable of explaining the collected data in some way, so it is better to use them all. BMA takes each model and averages the predictions from each. It assigns a weight to each prediction, giving greater weight to predictions from models with the higher posterior probability, which is essentially the likelihood of the model producing the observed data. This effectively produces a consensus forecast (Jagger and Elsner 2010).
 
-The improvement of predicting the intensity of hurricanes has been slow moving compared to the improvements in forecasting the storms position. HFIP was organized by NOAA to address the challenge of improving forecasts of hurricane intensity. The goal of this project was to decrease the grid spacing in the model from about 10 km to 1-4 km and produce an improved intensity and structure prediction, without decreasing the accuracy of the track forecasts. This enhanced resolution was achieved by using moveable, nested grids. (Davis et al. 2010).
+The improvement of predicting the intensity of hurricanes has been slow moving compared to the improvements in forecasting the storms position. HFIP was organized by NOAA to address the challenge of improving forecasts of hurricane intensity. The goal of this project was to decrease the grid spacing in the model from about 10 kilometers to 1-4 kilometers and produce an improved intensity and structure prediction, without decreasing the accuracy of the track forecasts. This enhanced resolution was achieved by using moveable, nested grids. (Davis et al. 2010).
 
 ##### Results
 
 When Jagger and Elsner compared the consensus forecast model to several single “best” models, it was found that Bayesian Model Averaging (BMA) provided a more accurate prediction than the single best models. They performed many cross-validation exercises and it was found that the BMA procedure out performs other model selection procedures in producing a more accurate forecast. It is noted that, although the consensus forecast will not always give the smallest forecast error, it will always provide a better assessment of forecast uncertainty as compared to a forecast from a single best model (Jagger and Elsner 2010).
 
-Davis et al. studied the impact of increased horizontal resolution on the improvement of hurricane forecasting. They compared the results produced by the high-resolution (nested) forecast to forecasts with 12-km grid spacing. The results produced compared position and intensity forecasts of each model. For position forecasts, little difference was found between the nested and 12-km forecasts as shown in Figure 6. Storm intensity was slightly better forecast in the nested simulations than in the 12-km forecasts, as shown in Figure 7. The nested forecast proved most beneficial for storms of category 3 or greater intensity (Davis et al. 2010).
+Davis et al. studied the impact of increased horizontal resolution on the improvement of hurricane forecasting. They compared the results produced by the high-resolution (nested) forecast to forecasts with 12-kilometers grid spacing. The results produced compared position and intensity forecasts of each model. For position forecasts, little difference was found between the nested and 12-kilometers forecasts as shown in Figure 6. Storm intensity was slightly better forecast in the nested simulations than in the 12-kilometers forecasts, as shown in Figure 7. The nested forecast proved most beneficial for storms of category 3 or greater intensity (Davis et al. 2010).
 
-![Figure 6. Comparison of the root mean square (RMS) position errors and forecast lead times. The nested forecasts are denoted by the grey diamonds and the 12-km forecasts are denoted with black squares.](images/image6.png)
+![Figure 6. Comparison of the root mean square (RMS) position errors and forecast lead times. The nested forecasts are denoted by the grey diamonds and the 12-kilometers forecasts are denoted with black squares.](images/image6.png)
 
-![Figure 7. Comparison of the root mean square (RMS) intensity errors and forecast lead times. The nested forecasts are denoted by the grey diamonds and the 12-km forecasts are denoted with black squares.](images/image1.png)
+![Figure 7. Comparison of the root mean square (RMS) intensity errors and forecast lead times. The nested forecasts are denoted by the grey diamonds and the 12-kilometers forecasts are denoted with black squares.](images/image1.png)
 
 ##### Discussion
 
@@ -218,7 +226,7 @@ One of the most influential restrictions on track and intensity forecasts are th
 
 Another issue that many of these forecasting methods experience is lack of computational power. The further discretized the three-dimensional storm is, the more computation required. Because of all the information and parameters that must be input into these models (i.e. physical restrictions, boundary conditions, fluxes, oceanic conditions, and atmospheric conditions) it is easy to see how quickly a system may become bogged down by an excess of input information. Those forecasts that use smaller discretizations in the horizontal plane (i.e. are of a higher resolution) may not necessarily provide more accurate results as seen in the study performed by Davis et al. Therefore, there must be more analysis in order to determine which inputs have a more significant influence on the actual accuracy of the forecast.
 
-Due to the large expanse that most hurricanes cover, it is easy to see why it may be so difficult to accurately portray hurricane paths. For a hurricane that has an influence of over 100 km, even the smallest error in track estimation can de-rail the forecast by tens of kilometers. The accuracy of hurricane forecasts also increases when the length of the forecast decreases. This is because the decreased time-step allows for more data to be gathered, and for initial conditions to be better evaluated. Ultimately long-term forecasts are preferred because they allow the public more time to prepare, but are more difficult to produce accurately. Incorporation of multiple models into ensemble forecasts may in the future allow for better long-term forecast accuracy.
+Due to the large expanse that most hurricanes cover, it is easy to see why it may be so difficult to accurately portray hurricane paths. For a hurricane that has an influence of over 100 kilometers, even the smallest error in track estimation can de-rail the forecast by tens of kilometers. The accuracy of hurricane forecasts also increases when the length of the forecast decreases. This is because the decreased time-step allows for more data to be gathered, and for initial conditions to be better evaluated. Ultimately long-term forecasts are preferred because they allow the public more time to prepare, but are more difficult to produce accurately. Incorporation of multiple models into ensemble forecasts may in the future allow for better long-term forecast accuracy.
 
 Although there have been tremendous improvements in increasing the accuracy of hurricane forecasts, there is still relatively little data to compare these forecasts to actual hurricane data. Between the years of 2000-2010, only 11 hurricanes occurred on the Atlantic Basin (NOAA, 2017). This means that the accuracy of certain forecasts only has a very limited number of actual data sets to compare to. Unfortunately, this means that error reduction in these models is likely to occur the more often that actual hurricanes occur.
 
@@ -411,6 +419,10 @@ If additional NMME forecast data was provided, one could potentially use the for
 
 ## References
 
+American Meteorological Society. (2007). Hurricane Forecasting in the United States. American Meteorological Society: Bulletin 88. <https://www.ametsoc.org/ams/index.cfm/about\\xadams/ams\\xadstatements/statements\\xadof\\xadthe\\xadams\\xadin>\\xad
+
+Atlas, R. (2005). Hurricane forecasting with the high-resolution NASA finite volume general circulation model. Geophysical Research Letters, 32(3). doi:10.1029/2004gl021513
+
 Avila, L. (2002). Tropical Cyclone Report: Hurricane Isidore. National Hurricane Center, NOAA.
 
 Avila, L., & Cangialosi, J. (2010). Tropical Cyclone Report: Hurricane Ida. National Hurricane Center, NOAA.
@@ -427,13 +439,27 @@ Beven, J. L., & Kimberlain, T. B. (2008). Tropical Cyclone Report: Hurricane Gus
 
 Blake, E. S. (2007). Tropical Cyclone Report: Hurricane Humberto. National Hurricane Center, NOAA.
 
+Bunya, S., et al. “A High-Resolution Coupled Riverine Flow, Tide, Wind, Wind Wave, and Storm Surge Model for Southern Louisiana and Mississippi. Part I: Model Development and Validation.” Monthly Weather Review, vol. 138, no. 2, 1 Feb. 2010, pp. 345–377., doi:10.1175/2009mwr2906.1.
+
+Cangialosi, John P, and James L Franklin. “NATIONAL HURRICANE CENTER FORECAST VERIFICATION REPORT.” National Hurricane Center Forecast Verification , 4 Apr. 2017, <www.nhc.noaa.gov/verification/>.
+
+Chen, Xing, et al. “Variations in Streamflow Response to Large Hurricane-Season Storms in a Southeastern U.S. Watershed.” Journal of Hydrometeorology, vol. 16, no. 1, 4 Feb. 2015, pp. 55–69., doi:10.1175/jhm-d-14-0044.1.
+
 Dolfman, Michael L.; Wasser, Solidelle Fortier; Bergman, Bruce. (2007). The Effects of Hurricane Katrina on the New Orleans Economy. Monthly Labor Review, 1-18.
 
 Economics and Statistics Administration (ESA). (2006). The Gulf Coast: Economic Impact & Recovery One Year after the Hurricanes. U.S. Department of Commerce.
 
 Federal Trade Commission. (2006). Investigation of Gasoline Price Manipulation and Post-Katrina Gasoline Price Increases. United States.
 
+Gopalakrishnan, S. G., Bacon, D. P., Ahmad, N. A. N., Boybeyi, Z., Dunn, T. J., Hall, M. S., ... & Sarma, A. (2002). An operational multiscale hurricane forecasting system. Monthly weather review, 130(7), 1830-1847.
+
+Harnos, D. S., Schemm, J. K. E., Wang, H., & Finan, C. A. (2017). NMME\\xadbased hybrid prediction of Atlantic hurricane season activity. Climate Dynamics , 1\\xad19.
+
 Impact Assessment Inc. (2007). Preliminary Assessment of the Impacts of Hurricane Katrina on Gulf of Mexico Coastal Fishing Communities. U.S. Department of Commerce.
+
+Jagger, Thomas H., and James B. Elsner. “A Consensus Model for Seasonal Hurricane Prediction.” Journal of Climate, vol. 23, no. 22, 2010, pp. 6090–6099., doi:10.1175/2010jcli3686.1.
+
+Jia, P., Joyner, A., & Sun, Y. (2014). Short\\xadterm associations between accumulated rainfall and atmospheric moisture during landfall of three Atlantic hurricanes. The Geographical Bulletin, 55 (1), 49.
 
 Knabb, R., Brown, D., & Rhome, J. (2006). Tropical Cyclone Report: Hurricane Rita. National Hurricane Center, NOAA.
 
@@ -441,65 +467,21 @@ Knabb, R., Rhome, J., & Brown, D. (2005). Tropical Cyclone Report: Hurricane Kat
 
 Lawrence, M. B. (2002). Tropical Cyclone Report: Hurricane Lili. National Hurricane Center, NOAA.
 
+Murakami, H., Villarini, G., Vecchi, G. A., Zhang, W., & Gudgel, R. (2016). Statistical–dynamical seasonal forecast of North Atlantic and US landfalling tropical cyclones using the high-resolution GFDL FLOR coupled model. Monthly Weather Review, 144(6), 2101-2123.
+
+National Aeronautics and Space Administration (NASA). (2015) Precipitation Measurement Missions. <https://pmm.nasa.gov/trmm>.
+
+National Atmospheric and Oceanic Administration (NOAA). 2017. Improving the accuracy and reliability of hurricane forecasts. Miami, FL: National Hurricane Center. <http://www.hfip.org/documents/HFIP_StrategicPlan_Yrs5-10_Nov05_2014_Update.pdf>
+
+National Atmospheric and Oceanic Administration (NOAA). 2017. Saffir-Simpson Hurricane Wind Scale. Miami, FL: National Hurricane Center. <http://www.nhc.noaa.gov/aboutsshws.php>.
+
+National Center for Atmospheric Research. (2017). Project: NMME CanCM4 data. NCAR Climate Data Gateway, <https://www.earthsystemgrid.org/project/nmme.html>
+
 Steward, J. S., Virnstein, R. W., Lasi, M. A., Morris, L. J., Miller, J. D., Hall, L. M., & Tweedale, W. A. (2006). The impacts of the 2004 hurricanes on hydrology, water quality, and seagrass in the central Indian River Lagoon, Florida. Estuaries and Coasts, 29(6), 954-965.
 
 Stewart, S. R. (2006). Tropical Cycle Report: Hurricane Cindy. National Hurricane Center, NOAA.
 
 Stone, G. W., Grymes III, J. M., Dingler, J. R., & Pepper, D. A. (1997). Overview and significance of hurricanes on the Louisiana coast, USA. Journal of Coastal Research, 656-669.
-
-American Meteorological Society. (2007). Hurricane Forecasting in the United States. American Meteorological Society: Bulletin 88. <https://www.ametsoc.org/ams/index.cfm/about­ams/ams­statements/statements­of­the­ams­in>­
-
-Cangialosi, John P, and James L Franklin. “NATIONAL HURRICANE CENTER FORECAST VERIFICATION REPORT.” National Hurricane Center Forecast Verification , 4 Apr. 2017, <www.nhc.noaa.gov/verification/>.
-
-Harnos, D. S., Schemm, J. K. E., Wang, H., & Finan, C. A. (2017). NMME­based hybrid prediction of Atlantic hurricane season activity. Climate Dynamics , 1­19.
-
-Jia, P., Joyner, A., & Sun, Y. (2014). Short­term associations between accumulated rainfall and atmospheric moisture during landfall of three Atlantic hurricanes. The Geographical Bulletin, 55 (1), 49.
-
-National Aeronautics and Space Administration (NASA). (2015) Precipitation Measurement Missions. <https://pmm.nasa.gov/trmm>.
-
-National Center for Atmospheric Research. (2017). Project: NMME CanCM4 data. NCAR Climate Data Gateway, <https://www.earthsystemgrid.org/project/nmme.html>
-
-Atlas, R. (2005). Hurricane forecasting with the high-resolution NASA finite volume general circulation model. Geophysical Research Letters, 32(3). doi:10.1029/2004gl021513
-
-Bunya, S., et al. “A High-Resolution Coupled Riverine Flow, Tide, Wind, Wind Wave, and Storm Surge Model for Southern Louisiana and Mississippi. Part I: Model Development and Validation.” Monthly Weather Review, vol. 138, no. 2, 1 Feb. 2010, pp. 345–377., doi:10.1175/2009mwr2906.1.
-
-Chen, Xing, et al. “Variations in Streamflow Response to Large Hurricane-Season Storms in a Southeastern U.S. Watershed.” Journal of Hydrometeorology, vol. 16, no. 1, 4 Feb. 2015, pp. 55–69., doi:10.1175/jhm-d-14-0044.1.
-
-Gopalakrishnan, S. G., Bacon, D. P., Ahmad, N. A. N., Boybeyi, Z., Dunn, T. J., Hall, M. S., ... & Sarma, A. (2002). An operational multiscale hurricane forecasting system. Monthly weather review, 130(7), 1830-1847.
-
-Jagger, Thomas H., and James B. Elsner. “A Consensus Model for Seasonal Hurricane Prediction.” Journal of Climate, vol. 23, no. 22, 2010, pp. 6090–6099., doi:10.1175/2010jcli3686.1.
-
-Murakami, H., Villarini, G., Vecchi, G. A., Zhang, W., & Gudgel, R. (2016). Statistical–dynamical seasonal forecast of North Atlantic and US landfalling tropical cyclones using the high-resolution GFDL FLOR coupled model. Monthly Weather Review, 144(6), 2101-2123.
-
-National Atmospheric and Oceanic Administration (NOAA). 2017. Improving the accuracy and reliability of hurricane forecasts. Miami, FL: National Hurricane Center. [http://www.hfip.org/documents/HFIP\_StrategicPlan\_Yrs5-10\_Nov05\_2014\_Update.pdf](https://www.google.com/url?q=http://www.hfip.org/documents/HFIP_StrategicPlan_Yrs5-10_Nov05_2014_Update.pdf&sa=D&ust=1606077043742000&usg=AOvVaw0IL87S4zD5QCqWUH6VRrb-)
-
-National Atmospheric and Oceanic Administration (NOAA). 2017. Saffir-Simpson Hurricane Wind Scale. Miami, FL: National Hurricane Center. [http://www.nhc.noaa.gov/aboutsshws.php](https://www.google.com/url?q=http://www.nhc.noaa.gov/aboutsshws.php&sa=D&ust=1606077043742000&usg=AOvVaw0ncmgOI_9e-Qk4BssInKr0)
-
-Tallapragada, V., Bernardet, L., Gopalakrishnan, S., Kwon, Y., Liu, Q., Marchok, T., ... & Yablonsky, R. (2014). Hurricane Weather Research and Forecasting (HWRF) model: 2013 scientific documentation. HWRF Development Testbed Center Tech. Rep, 99.
-
-United States, Congress, National Hurricane Center, and Eric S Blake. “Tropical Cyclone Report: Hurricane Humberto.” Tropical Cyclone Report: Hurricane Humberto, National Hurricane Center, 28 Nov. 2007. [www.nhc.noaa.gov/data/tcr/AL092007\_Humberto.pdf](https://www.google.com/url?q=http://www.nhc.noaa.gov/data/tcr/AL092007_Humberto.pdf&sa=D&ust=1606077043743000&usg=AOvVaw0V1qj8j16oYkCMQQVbO6Hz).
-
-Wamsley, T. V., Cialone, M. A., Smith, J. M., Atkinson, J. H., & Rosati, J. D. (2010). The potential of wetlands in reducing storm surge. Ocean Engineering, 37(1), 59-68.
-
-Westerink, Joannes J., et al. “A Basin- to Channel-Scale Unstructured Grid Hurricane Storm Surge Model Applied to Southern Louisiana.” Monthly Weather Review, vol. 136, no. 3, 1 Mar. 2008, pp. 833–864., doi:10.1175/2007mwr1946.1.
-
-World Meteorological Organization (WMO). 2012. Guidelines on Ensemble Prediction Systems and Forecasting. Geneva, Switzerland. [http://www.wmo.int/pages/prog/www/Documents/1091\_en.pdf](https://www.google.com/url?q=http://www.wmo.int/pages/prog/www/Documents/1091_en.pdf&sa=D&ust=1606077043744000&usg=AOvVaw31hu6197cGJEnsivA46pW0)
-
-Atlas, R. (2005). Hurricane forecasting with the high-resolution NASA finite volume general circulation model. Geophysical Research Letters, 32(3). doi:10.1029/2004gl021513
-
-Bunya, S., et al. “A High-Resolution Coupled Riverine Flow, Tide, Wind, Wind Wave, and Storm Surge Model for Southern Louisiana and Mississippi. Part I: Model Development and Validation.” Monthly Weather Review, vol. 138, no. 2, 1 Feb. 2010, pp. 345–377., doi:10.1175/2009mwr2906.1.
-
-Chen, Xing, et al. “Variations in Streamflow Response to Large Hurricane-Season Storms in a Southeastern U.S. Watershed.” Journal of Hydrometeorology, vol. 16, no. 1, 4 Feb. 2015, pp. 55–69., doi:10.1175/jhm-d-14-0044.1.
-
-Gopalakrishnan, S. G., Bacon, D. P., Ahmad, N. A. N., Boybeyi, Z., Dunn, T. J., Hall, M. S., ... & Sarma, A. (2002). An operational multiscale hurricane forecasting system. Monthly weather review, 130(7), 1830-1847.
-
-Jagger, Thomas H., and James B. Elsner. “A Consensus Model for Seasonal Hurricane Prediction.” Journal of Climate, vol. 23, no. 22, 2010, pp. 6090–6099., doi:10.1175/2010jcli3686.1.
-
-Murakami, H., Villarini, G., Vecchi, G. A., Zhang, W., & Gudgel, R. (2016). Statistical–dynamical seasonal forecast of North Atlantic and US landfalling tropical cyclones using the high-resolution GFDL FLOR coupled model. Monthly Weather Review, 144(6), 2101-2123.
-
-National Atmospheric and Oceanic Administration (NOAA). 2017. Improving the accuracy and reliability of hurricane forecasts. Miami, FL: National Hurricane Center. <http://www.hfip.org/documents/HFIP_StrategicPlan_Yrs5-10_Nov05_2014_Update.pdf>
-
-National Atmospheric and Oceanic Administration (NOAA). 2017. Saffir-Simpson Hurricane Wind Scale. Miami, FL: National Hurricane Center. <http://www.nhc.noaa.gov/aboutsshws.php>.
 
 Tallapragada, V., Bernardet, L., Gopalakrishnan, S., Kwon, Y., Liu, Q., Marchok, T., ... & Yablonsky, R. (2014). Hurricane Weather Research and Forecasting (HWRF) model: 2013 scientific documentation. HWRF Development Testbed Center Tech. Rep, 99.
 
@@ -509,4 +491,4 @@ Wamsley, T. V., Cialone, M. A., Smith, J. M., Atkinson, J. H., & Rosati, J. D. (
 
 Westerink, Joannes J., et al. “A Basin- to Channel-Scale Unstructured Grid Hurricane Storm Surge Model Applied to Southern Louisiana.” Monthly Weather Review, vol. 136, no. 3, 1 Mar. 2008, pp. 833–864., doi:10.1175/2007mwr1946.1.
 
-World Meteorological Organization (WMO). 2012. Guidelines on Ensemble Prediction Systems and Forecasting. Geneva, Switzerland.<http://www.wmo.int/pages/prog/www/Documents/1091_en.pdf>
+World Meteorological Organization (WMO). 2012. Guidelines on Ensemble Prediction Systems and Forecasting. Geneva, Switzerland. <http://www.wmo.int/pages/prog/www/Documents/1091_en.pdf>
